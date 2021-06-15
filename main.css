@@ -1,0 +1,359 @@
+/* ------------------------------------------------------ 
+ * Positions
+ * ------------------------------------------------------*/
+
+body {
+	margin: 0;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+#global {
+	position: relative; /* on positionne le conteneur */
+	margin-left: auto;
+	margin-right: auto;
+	width: 760px;
+	text-align: left;
+	background-color: #ffffff;
+}
+#header {
+	height: 150px;
+}
+#subheader {
+	height: 30px;
+}
+#footer {
+	margin:0;
+	padding: 10px 10px;
+	height: 50px;
+	clear:both;
+	/* border-bottom: 1px solid #666666; */
+}
+#content {
+	margin: 0;
+	padding: 20px 10px 0 10px;
+}
+#left {
+	position: relative;
+	width: 170px;
+	float: left;
+	/*
+	background-color: #dd0000;
+	Fait planter Safari !!!
+	height: 99%;
+	*/
+}
+#center {
+	width: 560px;
+	float: right;
+	/* 
+	border:1px solid #000;
+	background-color: #666666;
+	margin-left: 20px;
+	Correct IE bug 
+	This shows the 3px mis-alignment that IE6 produces.
+	*/
+	display: inline-block; 
+	padding-left: 2px;
+}
+
+/* on dfinit un conteneur pour le menu
+.menu {
+	margin: 10px;
+	border: 1px solid #111111;
+	background-color: #666666;
+}
+ */
+.menu { /* on dfinit un conteneur pour le menu */
+	margin-top: 30px;
+	width: 140px;
+	text-align: center;
+}
+
+.mylink a, .mylink a:visited {
+	color:#000; 
+	text-decoration:none; 
+	font-size:1.2em; 
+	font-weight:bold;
+}
+.mylink a:hover {
+	text-decoration:underline; 
+}
+/* color:#000; text-decoration:none; display:block; padding:5px 5px 5px 20px;
+background: #FFD37D url(arrow.gif) no-repeat 10px 10px; width:125px;
+background: #652967; color: #FFFFFF;
+*/
+
+.menuhead {
+	float: right; /* on aligne le menu vertical  droite de son conteneur, head3 */
+	padding: 6px;
+	margin: 3px 0 2px 0;
+}
+.menuhead a {
+	margin:0;
+	padding: 5px 10px;
+	font-size: 1em;
+	font-weight: bold;
+	color: #652967;
+	text-decoration: none; /* pour virer le soulignement au survol */
+	border:1px solid #fff;
+	}
+.menuhead a:hover {
+	background: #F4A201;
+}
+.adminmenuhead {
+	float: left;
+	padding: 6px;
+	margin: 3px 0 2px 0;
+}
+.adminmenuhead a {
+	margin:0;
+	padding: 5px 10px;
+	font-size: 1em;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none; /* pour virer le soulignement au survol */
+	border:1px solid #fff;
+}
+.adminmenuhead a:hover {
+	color: #fff;
+	background-color:#CC0033;
+}
+/*
+	border:1px solid #fff;
+	margin-right: 10px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	
+	margin-left: 5px; /* espacement entre chaque sous-menu 
+	padding:0;
+*/
+
+/* pour ne pas avoir de puces */
+/* interligne
+ ul,li {
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	line-height: 30px;
+}
+ */
+#test a, #test a:visited {
+  text-decoration:none;
+  text-align:center;
+  background-color:#aaa; 
+  color:#fff;
+  display:block; 
+  width:8em; 
+  padding:0.2em;
+  margin:0.5em 0;
+  border-right:5px solid #fff;
+  }
+#test a:hover {
+	border-right:5px solid #000;
+}
+
+#menu dl {width: 150px; margin: 0 auto; padding: 0 0 10px 0; background: #652967/*#69c*/ url(images/bottom.gif) no-repeat bottom left;}
+#menu dt {margin:0; padding: 8px; font-size: 1.5em; font-weight:bold; color: #fff; border-bottom:1px solid #fff; background: #652967/*#69c*/ url(images/top.gif) no-repeat top left;}
+#menu dd {margin:0; padding:0; color: #fff; font-size: 1em; border-bottom:1px solid #fff; background: #652967 /*#47a*/;}
+#gallery a, #gallery a:visited {color:#000; text-decoration:none; display:block; padding:5px 5px 5px 20px;
+background: #FFD37D /*#47a*/ url(images/arrow.gif) no-repeat 10px 10px; width:125px;
+}
+#gallery a:hover {background: #652967 /*#258 */ url(images/arrowr.gif) no-repeat 11px 10px; color: #FFFFFF;}
+/* Rose #C168C4 texte bleu #9cf*/
+/*
+CASCADING STYLE SHEET
+.out {
+  display:block; 
+  background:#bbb; 
+  border:1px solid #ddd; 
+  position:relative;
+  margin:1em 0;
+  }
+.in {
+  text-align:center; 
+  background:#fff; 
+  border:1px solid #555; 
+  position:relative; 
+  padding:5px;
+  font-weight:normal;
+  }
+.ltin {
+  left:-5px;
+  }
+.tpin {
+  top:-5px;
+  }
+.narrow {width:8em;}
+h4 {font-weight:bold; color:#000;}
+*/
+/* change to suit */
+
+.cadre {padding: 2px; background-color:#eeeeee; border: 1px solid #999999;}
+
+.Style1 {
+	font-size: 24px;
+	font-weight: bold;
+}
+.Style2 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.sstitre {
+	font-size: 12px;
+	font-style: italic;
+	background-color: #FFFFCC;
+	width: 100%;
+	border: 1px outset #CCCCCC;
+	font-weight: bold;
+	padding: 1px;
+}
+.sstitre2 {
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+	color: #666666;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-color: #666666;
+	background-color: #EFEBDE;
+	padding: 1px;
+}
+
+/* Boite o */
+/*
+.out {
+  display:block; 
+  background:#bbb; 
+  border:1px solid #ddd; 
+  position:relative;
+  margin:1em 0;
+}
+.in {
+  text-align:left; 
+  background:#fff; 
+  border:1px solid #555; 
+  position:relative; 
+  padding:5px;
+  font-weight:normal;
+  }
+.ltin {
+  left:-3px;
+  }
+.tpin {
+  top:-3px;
+  }
+*/
+
+.narrow {
+  width:90%;
+  /* width:40em; */
+} /* change to suit */
+
+.affiche {
+	padding:10px;
+}
+.textinbox {
+	float: right;
+}	
+
+
+
+h1 {font-size:2em; }
+h2 {font-size:1.5em; font-weight:normal;}
+h4 {font-weight:bold; color:#000;}
+
+/* My boxes clear:right; */ 
+#xsnazzy h1 {margin:0px; padding: 5px; }
+#xsnazzy h1 {font-size:1.5em; color:#fff; background:#652967;
+/*
+	background-image: url(images/bg_titre.gif);
+	background-repeat:repeat-x;
+*/
+}
+#xsnazzy h2, #xsnazzy p {margin:0 10px;}
+#xsnazzy h2 {font-size:2em;color:#06a; border:0;}
+/* #xsnazzy p {padding-bottom:0.5em;} */
+#xsnazzy p {padding:0.5em;}
+#xsnazzy h2 {padding-top:0.5em;}
+#xsnazzy {background: #fff; margin-bottom:1em;}
+/*
+border: 1px solid #666666;
+ .xbottom {clear:both;} 
+#xsnazzy {background: transparent; margin:1em;}
+*/
+.xtop, .xbottom {display:block; background:transparent; font-size:1px;}
+/*
+.xb1 {display:block; overflow:hidden; height:1px;margin:0 0px; background:#888;}
+*/
+
+
+.xb1, .xb2, .xb3, .xb4 {display:block; overflow:hidden;}
+.xb1, .xb2, .xb3 {height:1px;}
+.xb2, .xb3, .xb4 {background:#652967; border-left:1px solid #888; border-right:1px solid #888;}
+.xb1 {margin:0 5px; background:#888;}
+.xb2 {margin:0 3px; border-width:0 2px;}
+.xb3 {margin:0 2px;}
+.xb4 {height:2px; margin:0 1px;}
+
+/* Conteneur box 	width: 100%; */
+.xboxcontent {
+	display:block; 
+	background:#fff; 
+	position: relative;
+	border:0 solid #888; ;
+	border-width:0 1px;
+	/*
+	background-image: url(images/bg_pellicule.gif);
+	background-repeat:repeat-x;
+	padding-top: 9px;
+	*/
+}
+/*
+*/
+
+
+#fiche table{background-color:#EFEBDE; border-collapse:collapse; border: 1px solid #999;}
+#fiche td{padding: 2px 2px; border-color: #999; border-width: 1px;border-style: none none solid none}
+
+.admin table{background-color:#EFEBDE; border-collapse:collapse; border: 1px solid #999;}
+.admin td{padding: 2px 2px; border-color: #999; border-width: 1px;border-style: none none solid none}
+
+.logo {
+	margin: 15px 0 0 10px;
+}
+
+/* Photo du réalisateur */
+.ph_real {
+	margin:10px;
+	float:left;
+	position: relative;
+	border: 1px solid #666666;	
+}
+
+/* Venu de admin.php et admin_film.php */
+input, select, textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid #0066CC;
+	background-color:#DDDDDD;
+}
+.frmLink a{
+	font-family: Arial, Helvetica, sans-serif;
+	padding:1px 10px;
+	border:1px solid #000000;
+	background-color:#DDDDDD;
+	color:#0066CC;
+	text-decoration:none;
+}
+.frmLink a:hover {
+	background-color:#CCCCCC;
+	color:#0066CC; 
+	/*
+	border:1px solid #0066CC;
+	color: #fff;
+	background-color:#CC0033;
+	*/
+}
+
+

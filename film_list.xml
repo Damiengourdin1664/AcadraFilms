@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Films>
+	<Film>
+		<IdFilm>1</IdFilm>
+		<Titre>L'air paisible de l'occident</Titre>
+		<Titre_original>L'aria serena dell'ovest</Titre_original>
+		<Realisateur>Silvio Soldini</Realisateur>
+		<Annee>1989</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>2</IdFilm>
+		<Titre>Un amour</Titre>
+		<Titre_original>Un amore</Titre_original>
+		<Realisateur>Gianluca-Maria Tavarelli</Realisateur>
+		<Annee>1999</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>3</IdFilm>
+		<Titre>Le chant des saisons</Titre>
+		<Titre_original>Voci nel tempo</Titre_original>
+		<Realisateur>Franco Piavoli</Realisateur>
+		<Annee>1996</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>5</IdFilm>
+		<Titre>Compagne de voyage</Titre>
+		<Titre_original>Compagna di viaggio</Titre_original>
+		<Realisateur>Peter Del Monte</Realisateur>
+		<Annee>1996</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>6</IdFilm>
+		<Titre>Condominio</Titre>
+		<Titre_original>Condominio</Titre_original>
+		<Realisateur>Felice Farina</Realisateur>
+		<Annee>1991</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>7</IdFilm>
+		<Titre>D'abord la musique...</Titre>
+		<Titre_original>Prima la musica, poi le parole</Titre_original>
+		<Realisateur>Fulvio Wetzl</Realisateur>
+		<Annee>1998</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>8</IdFilm>
+		<Titre>Dans la mélée</Titre>
+		<Titre_original>Nella mischia</Titre_original>
+		<Realisateur>Gianni Zanasi</Realisateur>
+		<Annee>1995</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>9</IdFilm>
+		<Titre>Le doux bruit de la vie</Titre>
+		<Titre_original>Il dolce rumore della vita</Titre_original>
+		<Realisateur>Giuseppe Bertolucci</Realisateur>
+		<Annee>1999</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>10</IdFilm>
+		<Titre>L'étrange visite</Titre>
+		<Titre_original>Le strelle nel fosso</Titre_original>
+		<Realisateur>Pupi Avati</Realisateur>
+		<Annee>1978</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>11</IdFilm>
+		<Titre>Garibaldi, le héros des deux mondes</Titre>
+		<Titre_original>Garibaldi, l’eroe dei due mondi</Titre_original>
+		<Realisateur>Guido Manuli</Realisateur>
+		<Annee>1994</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>12</IdFilm>
+		<Titre>Hors du monde</Titre>
+		<Titre_original>Fuori dal mondo</Titre_original>
+		<Realisateur>Guiseppe Piccioni</Realisateur>
+		<Annee>1999</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>13</IdFilm>
+		<Titre>La lumière dans les yeux</Titre>
+		<Titre_original>Sole negli occhi</Titre_original>
+		<Realisateur>Andrea Porporati</Realisateur>
+		<Annee>2000</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>14</IdFilm>
+		<Titre>Ma génération</Titre>
+		<Titre_original>La mia generazione</Titre_original>
+		<Realisateur>Wilma Labate</Realisateur>
+		<Annee>1996</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>15</IdFilm>
+		<Titre>Milonga</Titre>
+		<Titre_original>Milonga</Titre_original>
+		<Realisateur>Emidio Greco</Realisateur>
+		<Annee>1998</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>16</IdFilm>
+		<Titre>Nero</Titre>
+		<Titre_original>Nero</Titre_original>
+		<Realisateur>Giancardo Soldi</Realisateur>
+		<Annee>1992</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>17</IdFilm>
+		<Titre>Nos années</Titre>
+		<Titre_original>I nostri anni</Titre_original>
+		<Realisateur>Daniele Gaglianone</Realisateur>
+		<Annee>2000</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>18</IdFilm>
+		<Titre>Rien à perdre</Titre>
+		<Titre_original>Vuoti a perdere</Titre_original>
+		<Realisateur>Massimo Costa</Realisateur>
+		<Annee>1989</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>19</IdFilm>
+		<Titre>Rosa et Cornelia</Titre>
+		<Titre_original>Rosa e Cornelia</Titre_original>
+		<Realisateur>Giorgio Treves</Realisateur>
+		<Annee>2000</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>20</IdFilm>
+		<Titre>La stratégie de l'araignée</Titre>
+		<Titre_original>La strategia del ragno</Titre_original>
+		<Realisateur>Bernardo Bertolucci</Realisateur>
+		<Annee>1969</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>21</IdFilm>
+		<Titre>Verso sud</Titre>
+		<Titre_original>Verso sud</Titre_original>
+		<Realisateur>Pasquale Pozzessere</Realisateur>
+		<Annee>1992</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>22</IdFilm>
+		<Titre>Les voleurs de cinéma</Titre>
+		<Titre_original>Ladri di cinema</Titre_original>
+		<Realisateur>Piero Natoli</Realisateur>
+		<Annee>1994</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>23</IdFilm>
+		<Titre>Zabut</Titre>
+		<Titre_original>I briganti di Zabut</Titre_original>
+		<Realisateur>Pasquale Scimeca</Realisateur>
+		<Annee>1997</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>24</IdFilm>
+		<Titre>Le laideron</Titre>
+		<Titre_original>La brutina stagionata</Titre_original>
+		<Realisateur>Anna Di Francisca</Realisateur>
+		<Annee>1996</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>25</IdFilm>
+		<Titre>Voix</Titre>
+		<Titre_original>Voci</Titre_original>
+		<Realisateur>Franco Giraldi</Realisateur>
+		<Annee>2001</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>26</IdFilm>
+		<Titre>Les vieilles</Titre>
+		<Titre_original>Vecchie</Titre_original>
+		<Realisateur>Daniele Segre</Realisateur>
+		<Annee>2002</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>27</IdFilm>
+		<Titre>J'aime travailler</Titre>
+		<Titre_original>Mi piace lavorare</Titre_original>
+		<Realisateur>Francesca Comencini</Realisateur>
+		<Annee>2004</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>28</IdFilm>
+		<Titre>La fièvre</Titre>
+		<Titre_original>La febbre</Titre_original>
+		<Realisateur>Alesandro D'Alatri</Realisateur>
+		<Annee>2005</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>29</IdFilm>
+		<Titre>Pas de problèmes</Titre>
+		<Titre_original>Nema problema</Titre_original>
+		<Realisateur>Giancarlo Bocchi</Realisateur>
+		<Annee>2004</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>30</IdFilm>
+		<Titre>Un silence particulier</Titre>
+		<Titre_original>Un silenzio particolare</Titre_original>
+		<Realisateur>Stefano Rulli</Realisateur>
+		<Annee>2004</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>31</IdFilm>
+		<Titre>Une Histoire Simple</Titre>
+		<Titre_original>Una storia semplice</Titre_original>
+		<Realisateur>Emidio Greco</Realisateur>
+		<Annee>1991</Annee>
+		<Activation>1</Activation>
+	</Film>
+	<Film>
+		<IdFilm>32</IdFilm>
+		<Titre>Dernier Test</Titre>
+		<Titre_original>Test ultimo</Titre_original>
+		<Realisateur>Marc</Realisateur>
+		<Annee>1995</Annee>
+		<Activation>0</Activation>
+	</Film>
+</Films>

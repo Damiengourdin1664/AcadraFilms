@@ -1,0 +1,66 @@
+/* ------------------------------------------------------ 
+ * Décoration (background images and colors )
+ * ------------------------------------------------------*/
+body { background-color: #E1FCAE;
+	background-image: url(images/bg5.gif);
+} 
+	/* #FFDBFF;
+	background-image: url(images/grisfonce_002.jpg);
+	background-image: url(images/bg_test_01.gif);
+	background-repeat:repeat-x;
+	background-repeat:repeat-y;
+	background-image: url(images/bgTest.gif);
+	background-repeat:repeat-y;
+	*/
+#global { border: 1px solid #666666; }
+	/* 
+	background-color: #FF0000;
+	border: 1px solid #666666;	
+	*/
+#header { background-image: url(images/header_06.jpg); }
+	/* 
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	background-color: #3333CC;  #666666;
+	background-color: #652967;
+	background-image: url(images/bg_pellicule.gif);
+	background-repeat:repeat-x;	
+	*/
+#subheader { background-color:#FFD37D; }
+	/*
+	Orange foncé #F4A201 
+	background-image: url(images/subheader_05.jpg);
+	background-color:#FFD37D;
+	background-color:#DBF468;
+	border: 1px solid #666666;	
+	margin-top:10px;
+	margin: 0 9px;
+	width: 760px;
+	border-top: 1px solid #666666;	
+	*/
+#footer { background-color: #FFFFFF; }
+	/*
+	border-bottom: 1px solid #666666;
+	background-image: url(images/content_05.jpg); 
+	*/
+
+#content { background-color: #FFFFFF; }
+	/*
+	background-image: url(images/content_05.jpg);
+	background-color: #FFFFFF;
+	margin: 0 20px;
+	border: 1px solid #666666;	
+	background-color: #CCCCCC;
+	*/
+#left {}
+	/* background-color: #444444; */
+#center {}
+	/*
+	background-color: #FFFFFF;
+	width: 590px;
+	background-image: url(images/threecolbg.gif);
+	background-repeat:repeat-y;
+	border-left: 1px solid #ccc;
+	border: 1px solid #666666;	
+	*/
+
